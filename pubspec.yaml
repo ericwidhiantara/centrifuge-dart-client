@@ -1,0 +1,8 @@
+environment:
+  sdk: '^3.3.0'
+
+name: flutter
+
+dependencies:
+
+  centrifuge: ^0.14.0
